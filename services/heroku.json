@@ -1,0 +1,8 @@
+{
+  "name": "heroku",
+  "web": "https://status.heroku.com/",
+  "host": "salesforce",
+  "urls": {
+    "status": "https://status.heroku.com/api/ui/systems"
+  }
+}

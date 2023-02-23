@@ -1,0 +1,8 @@
+{
+  "name": "automattic",
+  "web": "https://automatticstatus.com/",
+  "host": "automattic",
+  "urls": {
+    "status": "https://automatticstatus.com/rss"
+  }
+}

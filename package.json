@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "jsonschema": "^1.4.1"
+  },
+  "name": "service-status-data",
+  "version": "0.0.1",
+  "description": "Endpoints for services that have status pages",
+  "main": "",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node validate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andymckay/service-status-data.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andymckay/service-status-data/issues"
+  },
+  "homepage": "https://github.com/andymckay/service-status-data#readme"
+}

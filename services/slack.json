@@ -1,0 +1,10 @@
+{
+  "name": "slack",
+  "web": "https://slack.com/",
+  "docs": "https://api.slack.com/docs/slack-status",
+  "host": "slack",
+  "urls": {
+    "status": "https://status.slack.com/api/v2.0.0/current",
+    "history": "https://status.slack.com/api/v2.0.0/history"
+  }
+}

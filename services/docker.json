@@ -1,0 +1,8 @@
+{
+  "name": "docker",
+  "web": "https://status.docker.com/",
+  "host": "status.io",
+  "urls": {
+    "status": "https://status.docker.com/1.0/status/533c6539221ae15e3f000031"
+  }
+}
