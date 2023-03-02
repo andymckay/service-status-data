@@ -1,6 +1,6 @@
-const fs = require("fs");
-const process = require("process");
-const Validator = require("jsonschema").Validator;
+import fs from "fs";
+import process from "process"
+import { Validator } from "jsonschema";
 
 const schema = JSON.parse(fs.readFileSync("schema.json", "utf8"));
 const v = new Validator();

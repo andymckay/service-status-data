@@ -17,6 +17,10 @@
       "type": "string",
       "description": "The host that provides the status page, URLs can often be inferred from the combination of host and web."
     },
+    "components": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
     "urls": {
       "type": "object",
       "properties": {
