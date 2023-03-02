@@ -28,9 +28,20 @@ Some companies have built their own, or use a system that doesn't (yet) seem to 
 }
 ```
 
-Please add in more if this is useful.
+Please add in more if this is useful, more detailed instructions on this will come.
 
-Todo:
-* [ ] Figure out what we want to do with the biggies: AWS, GCP and Azure. Their status pages aren't simple.
-* [ ] Collect as many as I can, please add in yours.
-* [ ] Make some packages so we can pull them into various languages.
+## Installation
+
+This data is useful standalone, but can also be used as a JavaScript library.
+
+```bash
+npm install service-status-data
+```
+
+And then to use:
+
+```js
+import { get, list } from "service-status-data";
+get('github') // Returns the data as a JSON object for GitHub.
+list() // Returns a list of services. Each string can be passed to the `get` command.
+```

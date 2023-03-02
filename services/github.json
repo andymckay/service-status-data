@@ -1,5 +1,14 @@
 {
   "name": "GitHub",
   "web": "https://www.githubstatus.com/",
-  "host": "atlassian"
+  "host": "atlassian",
+  "components": [
+    "actions",
+    "codespaces",
+    "copilot",
+    "issues",
+    "packages",
+    "pages",
+    "webhooks"
+  ]
 }

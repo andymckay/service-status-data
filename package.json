@@ -3,10 +3,9 @@
     "jsonschema": "^1.4.1"
   },
   "name": "service-status-data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Endpoints for services that have status pages",
-  "main": "",
-  "devDependencies": {},
+  "main": "index.js",
   "scripts": {
     "test": "node validate.js"
   },
@@ -19,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/andymckay/service-status-data/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/andymckay/service-status-data#readme"
 }
