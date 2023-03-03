@@ -1,5 +1,5 @@
 {
-  "name": "docker",
+  "name": "Docker",
   "web": "https://status.docker.com/",
   "host": "status.io",
   "urls": {

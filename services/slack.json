@@ -1,5 +1,5 @@
 {
-  "name": "slack",
+  "name": "Slack",
   "web": "https://status.slack.com/",
   "docs": "https://api.slack.com/docs/slack-status",
   "host": "slack",
