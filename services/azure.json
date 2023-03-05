@@ -1,0 +1,8 @@
+{
+    "name": "Azure",
+    "web": "https://azure.status.microsoft/en-ca/status",
+    "host": "azure",
+    "urls": {
+        "status": "https://azure.status.microsoft/en-ca/status/feed/"
+    }
+}

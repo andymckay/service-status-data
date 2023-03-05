@@ -1,0 +1,8 @@
+{
+    "name": "Google Cloud",
+    "web": "https://status.cloud.google.com/",
+    "host": "google",
+    "urls": {
+        "status": "https://status.cloud.google.com/incidents.json"
+    }
+}
