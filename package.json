@@ -3,7 +3,7 @@
     "jsonschema": "^1.4.1"
   },
   "name": "service-status-data",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Endpoints for services that have status pages",
   "main": "index.js",
   "scripts": {
